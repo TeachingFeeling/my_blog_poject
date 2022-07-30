@@ -1,0 +1,18 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/list/list",
+    "pages/sousuo/sousuo",
+    "pages/quanbufuwu/quanbufuwu",
+    "pages/kongtiao/kongtiao"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor":"#6495ED",
+    
+    "navigationBarTextStyle":"black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
